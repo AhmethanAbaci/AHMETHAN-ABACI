@@ -35,6 +35,31 @@
 
 ---
 
+## 💼 Projects
+
+### Simple Data Analysis
+![Data Analysis](images/data_project.png)
+- Python, Pandas, Matplotlib
+- Junior project: still learning, exploring data insights
+
+### Mini Game (Unity)
+![Mini Game](images/unity_game.gif)
+- C#, Unity
+- Focus on small features, practicing coding and logic
+
+
+### Hermanos Cafe Website
+![Hermanos Cafe](images/hermanoscafe.png)
+- **Technologies:** HTML, CSS, JavaScript , ASP.NET , SignalR
+- **Features:**
+  - Modern and user-friendly design
+  - Highlighted fast service and fresh ingredients
+  - Contact number for orders integrated
+- **Live Site:** [hermanoscafe.com.tr](https://hermanoscafe.com.tr/)
+- Junior project: exploring web design, front-end development, and UX basics
+
+---
+
 ## 🎯 Current Goals
 - Gain hands-on experience in **Data Science & AI** projects  
 - Grow as a **junior developer** through learning and collaboration  

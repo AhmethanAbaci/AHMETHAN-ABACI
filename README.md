@@ -38,7 +38,7 @@
 ## 💼 Projects
 
 ### Pneumonia Detection
-<img src="images/Pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
+<img src="images/Pneumonia_detection.png" width="500px" alt="Pneumonia Detection"/>
 - Python, Keras, Conv2D  
 - Image classification for detecting pneumonia  
 

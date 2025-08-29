@@ -36,12 +36,6 @@
 ---
 
 ## 💼 Projects
-
-### Simple Data Analysis
-<img src="images/data_project.png" width="300px" alt="Data Analysis"/>
-- Python, Pandas, Matplotlib
-- Junior project: still learning, exploring data insights
-
 ### Mini Game (Unity)
 <p float="left">
   <img src="images/CarParking.jpg" width="200px" alt="Mini Game 1"/>
@@ -67,7 +61,13 @@
 [Live Site](https://ahmethanabaci.netlify.app/)
 
 ### Hermanos Cafe Website
-<img src="images/hermanoscafe.png" width="300px" alt="Hermanos Cafe"/>
+<p float="left">
+  <img src="images/cafe.png" width="200px" alt="Hermanos Cafe"/>
+  <img src="images/cafe2.png" width="200px" alt="Hermanos Cafe"/>
+  <img src="images/cafe3.png" width="200px" alt="Hermanos Cafe"/>
+  <img src="images/cafe4.png" width="200px" alt="Hermanos Cafe"/>
+</p>
+
 - **Technologies:** HTML, CSS, JavaScript, ASP.NET, SignalR
 - **Features:**
   - Modern and user-friendly design

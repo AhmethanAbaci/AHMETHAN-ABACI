@@ -36,12 +36,13 @@
 ---
 
 ## 💼 Projects
+
 ### Pneumonia Detection
 <img src="images/Pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
-- Python, Keras, Conv2D
-- Junior project: image classification for detecting pneumonia
-- Grad-CAM visualizations included
----
+- Python, Keras, Conv2D  
+- Image classification for detecting pneumonia  
+- Grad-CAM visualizations included  
+
 ### Hermanos Cafe Website
 <p float="left">
   <img src="images/cafe.png" width="200px" alt="Hermanos Cafe"/>
@@ -49,15 +50,12 @@
   <img src="images/cafe3.png" width="200px" alt="Hermanos Cafe"/>
   <img src="images/cafe4.png" width="200px" alt="Hermanos Cafe"/>
 </p>
-
-- **Technologies:** HTML, CSS, JavaScript, ASP.NET, SignalR
-- **Features:**
-  - Modern and user-friendly design
-  - Highlighted fast service and fresh ingredients
-  - Contact number for orders integrated
+- **Technologies:** HTML, CSS, JavaScript, ASP.NET, SignalR  
+- Modern and user-friendly design  
+- Highlighted fast service and fresh ingredients  
+- Contact number for orders integrated  
 - **Live Site:** [hermanoscafe.com.tr](https://hermanoscafe.com.tr/)
 
----
 ### Mini Game (Unity)
 <p float="left">
   <img src="images/CarParking.jpg" width="200px" alt="Mini Game 1"/>
@@ -65,16 +63,16 @@
   <img src="images/draw_basketball.jpg" width="200px" alt="Mini Game 3"/>
   <img src="images/draw_basketball2.jpg" width="200px" alt="Mini Game 4"/>
 </p>
-- C#, Unity
-- Focus on small features, practicing coding and logic
+- C#, Unity  
+- Focus on small features, practicing coding and logic  
 
 ### Heart Health Prediction (RNN)
 <img src="images/heart_health_rnn.png" width="300px" alt="Heart Health RNN"/>
-- Python, TensorFlow, RNN/LSTM
-- Junior project: predicting heart health risk using time series data
+- Python, TensorFlow, RNN/LSTM  
+- Predicting heart health risk using time series data  
 
 ### Mini Website
-[Live Site](https://ahmethanabaci.netlify.app/)
+- [Live Site](https://ahmethanabaci.netlify.app/)
 
 ---
 

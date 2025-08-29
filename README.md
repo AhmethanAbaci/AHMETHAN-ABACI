@@ -41,7 +41,6 @@
 <img src="images/Pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
 - Python, Keras, Conv2D  
 - Image classification for detecting pneumonia  
-- Grad-CAM visualizations included  
 
 ### Hermanos Cafe Website
 <p float="left">
@@ -67,8 +66,8 @@
 - Focus on small features, practicing coding and logic  
 
 ### Heart Health Prediction (RNN)
-<img src="images/heart_health_rnn.png" width="300px" alt="Heart Health RNN"/>
-- Python, TensorFlow, RNN/LSTM  
+<img src="images/heart_health.png" width="300px" alt="Heart Health RNN"/>
+<img src="images/hearthealth2.png" width="300px" alt="Heart Health RNN"/>
 - Predicting heart health risk using time series data  
 
 ### Mini Website

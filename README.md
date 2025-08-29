@@ -36,30 +36,12 @@
 ---
 
 ## 💼 Projects
-### Mini Game (Unity)
-<p float="left">
-  <img src="images/CarParking.jpg" width="200px" alt="Mini Game 1"/>
-  <img src="images/CarParking2.jpg" width="200px" alt="Mini Game 2"/>
-  <img src="images/draw_basketball.jpg" width="200px" alt="Mini Game 3"/>
-  <img src="images/draw_basketball2.jpg" width="200px" alt="Mini Game 4"/>
-</p>
-- C#, Unity
-- Focus on small features, practicing coding and logic
-
 ### Pneumonia Detection
-<img src="images/pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
+<img src="images/Pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
 - Python, Keras, Conv2D
 - Junior project: image classification for detecting pneumonia
 - Grad-CAM visualizations included
-
-### Heart Health Prediction (RNN)
-<img src="images/heart_health_rnn.png" width="300px" alt="Heart Health RNN"/>
-- Python, TensorFlow, RNN/LSTM
-- Junior project: predicting heart health risk using time series data
-
-### Mini Website
-[Live Site](https://ahmethanabaci.netlify.app/)
-
+---
 ### Hermanos Cafe Website
 <p float="left">
   <img src="images/cafe.png" width="200px" alt="Hermanos Cafe"/>
@@ -74,6 +56,25 @@
   - Highlighted fast service and fresh ingredients
   - Contact number for orders integrated
 - **Live Site:** [hermanoscafe.com.tr](https://hermanoscafe.com.tr/)
+
+---
+### Mini Game (Unity)
+<p float="left">
+  <img src="images/CarParking.jpg" width="200px" alt="Mini Game 1"/>
+  <img src="images/CarParking2.jpg" width="200px" alt="Mini Game 2"/>
+  <img src="images/draw_basketball.jpg" width="200px" alt="Mini Game 3"/>
+  <img src="images/draw_basketball2.jpg" width="200px" alt="Mini Game 4"/>
+</p>
+- C#, Unity
+- Focus on small features, practicing coding and logic
+
+### Heart Health Prediction (RNN)
+<img src="images/heart_health_rnn.png" width="300px" alt="Heart Health RNN"/>
+- Python, TensorFlow, RNN/LSTM
+- Junior project: predicting heart health risk using time series data
+
+### Mini Website
+[Live Site](https://ahmethanabaci.netlify.app/)
 
 ---
 

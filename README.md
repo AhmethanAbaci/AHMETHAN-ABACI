@@ -43,10 +43,12 @@
 - Junior project: still learning, exploring data insights
 
 ### Mini Game (Unity)
-<img src="images/CarParking.jpg" width="300px" alt="Mini Game 1"/>
-<img src="images/CarParking2.jpg" width="300px" alt="Mini Game 2"/>
-<img src="images/draw_basketball.jpg" width="300px" alt="Mini Game 3"/>
-<img src="images/draw_basketball2.jpg" width="300px" alt="Mini Game 4"/>
+<p float="left">
+  <img src="images/CarParking.jpg" width="200px" alt="Mini Game 1"/>
+  <img src="images/CarParking2.jpg" width="200px" alt="Mini Game 2"/>
+  <img src="images/draw_basketball.jpg" width="200px" alt="Mini Game 3"/>
+  <img src="images/draw_basketball2.jpg" width="200px" alt="Mini Game 4"/>
+</p>
 - C#, Unity
 - Focus on small features, practicing coding and logic
 

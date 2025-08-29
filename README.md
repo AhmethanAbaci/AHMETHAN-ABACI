@@ -4,7 +4,7 @@
 🌱 Junior **Data Science & Web Developer**  
 🎮 Background in **Game Development** and **Web Development**  
 🚀 Eager to learn, grow, and contribute to small and impactful projects  
-🌍 Aiming for a future international career and Master's studies in Poland  
+🌍 Aiming for a future international career 
 
 ---
 

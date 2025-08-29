@@ -38,49 +38,40 @@
 ## 💼 Projects
 
 ### Simple Data Analysis
-![Data Analysis](images/data_project.png)
+<img src="images/data_project.png" width="300px" alt="Data Analysis"/>
 - Python, Pandas, Matplotlib
 - Junior project: still learning, exploring data insights
 
 ### Mini Game (Unity)
-![Mini Game](images/CarParking.jpg)
-![Mini Game](images/CarParking2.jpg)
-![Mini Game](images/draw_basketball.jpg)
-![Mini Game](images/draw_basketball2.jpg)
+<img src="images/CarParking.jpg" width="300px" alt="Mini Game 1"/>
+<img src="images/CarParking2.jpg" width="300px" alt="Mini Game 2"/>
+<img src="images/draw_basketball.jpg" width="300px" alt="Mini Game 3"/>
+<img src="images/draw_basketball2.jpg" width="300px" alt="Mini Game 4"/>
 - C#, Unity
 - Focus on small features, practicing coding and logic
 
----
-
 ### Pneumonia Detection
-![Pneumonia Detection](images/pneumonia_detection.png)
+<img src="images/pneumonia_detection.png" width="300px" alt="Pneumonia Detection"/>
 - Python, Keras, Conv2D
 - Junior project: image classification for detecting pneumonia
 - Grad-CAM visualizations included
-- **Images:** `images/pneumonia_detection.png` (replace with your screenshot)
 
 ### Heart Health Prediction (RNN)
-![Heart Health RNN](images/heart_health_rnn.png)
+<img src="images/heart_health_rnn.png" width="300px" alt="Heart Health RNN"/>
 - Python, TensorFlow, RNN/LSTM
 - Junior project: predicting heart health risk using time series data
-- **Images:** `images/heart_health_rnn.png` (replace with your screenshot)
-
----
 
 ### Mini Website
 [Live Site](https://ahmethanabaci.netlify.app/)
 
----
-
 ### Hermanos Cafe Website
-![Hermanos Cafe](images/hermanoscafe.png)
+<img src="images/hermanoscafe.png" width="300px" alt="Hermanos Cafe"/>
 - **Technologies:** HTML, CSS, JavaScript, ASP.NET, SignalR
 - **Features:**
   - Modern and user-friendly design
   - Highlighted fast service and fresh ingredients
   - Contact number for orders integrated
 - **Live Site:** [hermanoscafe.com.tr](https://hermanoscafe.com.tr/)
-- Junior project: exploring web design, front-end development, and UX basics
 
 ---
 

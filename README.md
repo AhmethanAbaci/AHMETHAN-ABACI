@@ -43,14 +43,38 @@
 - Junior project: still learning, exploring data insights
 
 ### Mini Game (Unity)
-![Mini Game](images/unity_game.gif)
+![Mini Game](images/CarParking.jpg)
+![Mini Game](images/CarParking2.jpg)
+![Mini Game](images/draw_basketball.jpg)
+![Mini Game](images/draw_basketball2.jpg)
 - C#, Unity
 - Focus on small features, practicing coding and logic
 
+---
+
+### Pneumonia Detection
+![Pneumonia Detection](images/pneumonia_detection.png)
+- Python, Keras, Conv2D
+- Junior project: image classification for detecting pneumonia
+- Grad-CAM visualizations included
+- **Images:** `images/pneumonia_detection.png` (replace with your screenshot)
+
+### Heart Health Prediction (RNN)
+![Heart Health RNN](images/heart_health_rnn.png)
+- Python, TensorFlow, RNN/LSTM
+- Junior project: predicting heart health risk using time series data
+- **Images:** `images/heart_health_rnn.png` (replace with your screenshot)
+
+---
+
+### Mini Website
+[Live Site](https://ahmethanabaci.netlify.app/)
+
+---
 
 ### Hermanos Cafe Website
-![Hermanos Cafe](images/cafe.png)
-- **Technologies:** HTML, CSS, JavaScript , ASP.NET , SignalR
+![Hermanos Cafe](images/hermanoscafe.png)
+- **Technologies:** HTML, CSS, JavaScript, ASP.NET, SignalR
 - **Features:**
   - Modern and user-friendly design
   - Highlighted fast service and fresh ingredients

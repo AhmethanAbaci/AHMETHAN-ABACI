@@ -49,7 +49,7 @@
 
 
 ### Hermanos Cafe Website
-![Hermanos Cafe](images/hermanoscafe.png)
+![Hermanos Cafe](images/cafe.png)
 - **Technologies:** HTML, CSS, JavaScript , ASP.NET , SignalR
 - **Features:**
   - Modern and user-friendly design
